@@ -3,7 +3,7 @@
 Plugin Name: Woo Edit Credit System
 Description: A custom plugin to manages video editing credits and requests for video editing.
 Version: 1.0
-Author: Sanjoy Das
+Author: DC
 */
 
 if (!defined('ABSPATH')) exit; // Exit if accessed directly
